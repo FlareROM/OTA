@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+    	<!-- c1skt -->
+        	<c1skt>
+			<Filename>FlareROM-1.0.1.BETA-20160501-c1skt.zip</Filename>
+			<RomUrl
+				id="rom"
+				title="Rom"
+				description="Download the latest FlareROM Build">https://basketbuild.com/uploads/devs/XOSP/Z00A/XOSP-5.4-OFFICIAL-20160423-Z00A.zip</RomUrl>
+			<OpenGappsUrl
+				id="open_gapps"
+				title="OpenGApps"
+				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+		</c1skt>
+    </Stable>   
+</SlimOTA>
