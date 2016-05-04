@@ -31,7 +31,7 @@
   <WebsiteURL>http://flarerom.pe.hu</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>https://plus.google.com/communities/104206901363165517328</DonateURL>
+  <DonateURL nil="true" />
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20160505
