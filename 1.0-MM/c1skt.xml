@@ -13,7 +13,7 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>http://downloads.sourceforge.net/project/flarerom/1.0/c1skt/FlareROM-1.0.5.BETA-20160504-c1skt.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fflarerom%2Ffiles%2F1.0%2Fc1skt%2F%3Fupload_just_completed%3Dtrue&ts=1462410191&use_mirror=master</DirectUrl>
+  <DirectUrl>http://me2.do/FqM8ltyL</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/flarerom/files/1.0/c1skt/</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>6.0.1</Android>
